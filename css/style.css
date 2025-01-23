@@ -18,7 +18,7 @@ header {
 .logo {
     width: 15%;
     height: auto;
-    padding-top: 3%;
+    padding-top: 2%;
     padding-left: 15%;
     
 }
@@ -29,7 +29,10 @@ main {
     width: 80%;
     margin: 0 auto; /* Center the main element */ 
 }  
-  
+
+.pics {
+    height: 70%;
+}  
   
   
   
