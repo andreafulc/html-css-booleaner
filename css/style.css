@@ -87,9 +87,35 @@ main {
 }
   
 .list {
-   
     font-size: smaller;
     margin: 0%; 
-    padding: 0%; 
+    padding-left: 1.5%; 
+    
 }
 
+table {
+    border: 1px solid #ffffff;
+    width: 100%;
+    margin: 0%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+th {
+    background-color: #7fa6fb;
+    color: white;
+    padding: 5px;
+    width: 200px; 
+    height: 10px; 
+    font-size: smaller;
+}
+
+.line1 {
+    background-color: #dfe5f2;
+    font-size: smaller;
+}
+
+.line2 {
+    background-color: #ffffff;
+    font-size: smaller;
+}
