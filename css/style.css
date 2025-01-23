@@ -11,6 +11,9 @@ header {
   height: 100px;
   text-align: left;
   position: relative;
+  padding: 0%;
+  margin: 0%;
+
 }  
 
 /* booleaner logo */
@@ -28,16 +31,65 @@ header {
 main {
     width: 80%;
     margin: 0 auto; /* Center the main element */ 
+    padding: 0%;
+    border: 0%;
 }  
 
 .pics {
     height: 70%;
+    padding-top: 3%;
 }  
   
+.sub {
+    height: 70%;
+    color: grey;
+    display: block;
+    margin: 0%;
+    padding: 0%;
+
+}  
+
+.title {
+    font-size: 2em;
+    margin-top: 3%;
+    margin-bottom: 0%;
+    padding: 0%;
+}
+
+.blue {
+    color: #9cd6f4;
+}
+
+.date {
+    color: grey;
+    font-size: 0.8em;
+    margin: 0%;
+    padding: 0%;
+}
   
+.first {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 0%;
+    font-size: x-small;
+}
   
+.article {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding: 0%;
+    font-size: smaller;
+}
+   
+.higlight {
+    font-weight: 300;
+    background-color: #eeee06;   
+}
   
-  
-  
-  
-  
+.list {
+   
+    font-size: smaller;
+    margin: 0%; 
+    padding: 0%; 
+}
+
